@@ -1,0 +1,55 @@
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\CSCore.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\EntityFramework.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Buffers.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Data.SQLite.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Memory.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\TagLibSharp.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\CSCore.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\EntityFramework.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Buffers.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Data.SQLite.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Memory.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\TagLibSharp.pdb
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\TagLibSharp.xml
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music_Player.Config.resources
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music_Player.EQ.resources
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music_Player.MusicPlayer.resources
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music_Player.loginForm.resources
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\hillw\Source\Repos\IS345-G5-Music-Player\Music Player\obj\Debug\Music Player.pdb
